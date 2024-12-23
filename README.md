@@ -29,6 +29,11 @@ passes, the comment will be updated to thank the user for providing the link:
 
 ![comment thanking the user for complying](./sc2.png)
 
+This workflow was inspired by https://x.com/mitchellh/status/1852039089547309552:
+
+![twitter post](./inspiration.png)
+
+
 ## Install
 
 Copy the [require-link.yaml](./github/workflows/require-link.yaml) workflow
